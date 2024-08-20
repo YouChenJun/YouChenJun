@@ -11,7 +11,7 @@
 ## 🛠技术栈 | Tech Stack
 
 - :desktop_computer: 应用安全
-- 🌐SRC/漏洞挖掘
+- 🌐SRC/漏洞挖掘/红蓝对抗
 - :briefcase:甲方安全运营（DevSecOps）安全建设
 - :package:安全工具开发
 - :eyes:RASP-Java开发
