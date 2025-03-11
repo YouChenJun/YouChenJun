@@ -19,7 +19,8 @@
 
 ## 🔧正在开发
 
-- **从流量包匹配敏感信息的工具** [Keydd](https://github.com/YouChenJun/Keydd) 
+- **从流量包匹配敏感信息的工具** [Keydd](https://github.com/YouChenJun/Keydd)
+- **精确检查IP是否为CDN节点的工具** [CheckCdn]((https://github.com/YouChenJun/CheckCdn))
 - **一款全自动工作流式漏洞挖掘工具-已挖掘企业SRC赏金 :tada: 2w+**  xscan(毕设作品，暂未开源，九月会发布未开源版)
 - **资产发现、漏洞挖掘扫描工作流** xscan-workflow(毕设作品，暂未开源)
 - **RustScan指纹补充工具** [nmap-x](https://github.com/YouChenJun/nmap-x)
